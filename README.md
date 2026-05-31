@@ -1,42 +1,81 @@
-🤖 AI Coding Interview Coach
+# 🤖 AI Coding Interview Coach
 
-An AI-powered interview simulator that evaluates coding solutions like a real software engineering interviewer. It analyzes problem-solving ability, communication clarity, edge cases, and provides adaptive follow-up questions — replicating a real technical interview experience.
+An AI-powered interview simulator that evaluates coding solutions like a real software engineering interviewer.
 
-🚀 Demo
+It helps you improve:
+- Problem-solving skills
+- Communication skills
+- Interview thinking
+- Edge case awareness
 
-Run locally via Streamlit
+It runs a **multi-round adaptive mock interview system** with AI-driven follow-up questions and optional voice input support.
 
-streamlit run app.py
+---
 
-AI Interview Evaluation
-Analyzes coding solutions like a senior engineer
-Evaluates:
-Time & Space Complexity
-Code correctness
-Edge cases
-Optimization opportunities
+## 🎥 Demo
 
-Communication Scoring
-Scores how well you explain your solution
-Feedback on:
-Clarity of thought
-Structured explanation
-Tradeoff discussion
-Interview-style communication
+> 
 
-Adaptive Mock Interview
-Generates follow-up questions based on your answers
-Simulates a real interviewer conversation flow
-Multi-round interview experience
+---
 
-Voice Input Support
-Speak your explanation instead of typing
-Automatic speech-to-text transcription
-More realistic interview simulation
+## 🚀 Features
 
-Interview Feedback System
-Final score summary after each session
-Tracks performance across questions:
-Problem solving
-Communication
-Optimization
+### 🧠 AI Code Evaluation
+Evaluates your solution like a senior engineer:
+- Time Complexity analysis
+- Space Complexity analysis
+- Correctness checking
+- Optimization suggestions
+
+---
+
+### 💬 Communication Scoring
+Analyzes how you explain your solution:
+- Clarity of thought
+- Structured reasoning
+- Tradeoff discussion
+- Interview-style communication quality
+
+---
+
+### 🔁 Adaptive Mock Interview
+- Dynamic follow-up questions based on your answers
+- Multi-round interview simulation
+- AI adapts difficulty in real-time
+- Simulates real interviewer behavior
+
+---
+
+### 🎤 Voice Input Support
+- Speak instead of typing
+- Speech-to-text conversion
+- More realistic interview experience
+
+---
+
+### 📊 Final Interview Report
+After each session, you get:
+- Overall performance score
+- Strengths analysis
+- Weaknesses breakdown
+- Personalized improvement suggestions
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React / Streamlit (update accordingly)
+- **Backend:** Node.js / Python FastAPI
+- **AI Engine:** OpenAI / Claude / Gemini APIs
+- **Speech-to-Text:** Whisper / Web Speech API
+- **State Management:** Context API / Redux (if used)
+- **Styling:** TailwindCSS / CSS Modules
+
+---
+
+## ⚙️ Setup & Installation
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/ai-coding-interview-coach.git
+cd ai-coding-interview-coach
