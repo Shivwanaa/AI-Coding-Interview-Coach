@@ -64,12 +64,10 @@ After each session, you get:
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React / Streamlit (update accordingly)
-- **Backend:** Node.js / Python FastAPI
-- **AI Engine:** OpenAI / Claude / Gemini APIs
-- **Speech-to-Text:** Whisper / Web Speech API
-- **State Management:** Context API / Redux (if used)
-- **Styling:** TailwindCSS / CSS Modules
+- **Frontend:** Streamlit (update accordingly)
+- **Backend:** Python FastAPI
+- **AI Engine:** Gemini APIs
+- **Speech-to-Text:** Streamlit 
 
 ---
 
